@@ -1,0 +1,23 @@
+---
+title: "Final Project"
+subtitle: "Data Science 1 with R (STAT 301-1)"
+author: "Mahdi Haseeb"
+
+format:
+  html:
+    toc: true
+    embed-resources: true
+    code-fold: show
+    link-external-newwindow: true
+
+execute:
+  warning: false
+  
+from: markdown+emoji 
+---
+
+::: {.callout-tip icon=false}
+
+## Github Repo Link
+[https://github.com/mahdihaseeb/final-project-2-mahdihaseeb.git](https://github.com/mahdihaseeb/final-project-2-mahdihaseeb.git)
+:::
